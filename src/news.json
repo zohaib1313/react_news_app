@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Rachel Sharp",
+            "title": "Idaho murders - live: ‘More than one’ suspect may be at large in university student ‘rambo knife’ stabbings - The Independent",
+            "description": "Four friends were killed after returning home from nights out in Moscow, Idaho",
+            "url": "https://www.independent.co.uk/news/world/americas/crime/university-of-idaho-murders-autopsy-rambo-knife-b2227760.html",
+            "urlToImage": "https://static.independent.co.uk/2022/11/15/18/University%20of%20Idaho%20victims.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2022-11-18T06:37:19Z",
+            "content": "Police face backlash from the community for lack of clarity \r\nAs the mystery deepened, Moscow residents and students began to post on social media about their dissatisfaction with the explanations co… [+1057 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Alex Marquardt",
+            "title": "US determines Saudi Crown Prince is immune in case brought by Jamal Khashoggi's fiancée - CNN",
+            "description": "The Biden administration has determined that Saudi Arabia's Crown Prince, Mohammed bin Salman, should be granted immunity in a case brought against him by the fiancée of Washington Post journalist Jamal Khashoggi, whom the administration has said was murdered…",
+            "url": "https://www.cnn.com/2022/11/17/politics/saudi-crown-prince-immunity-state-department-jamal-khashoggi/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221117161546-prince-mohammed-bin-salman-221115.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-18T06:20:00Z",
+            "content": "The Biden administration has determined that Saudi Arabias Crown Prince, Mohammed bin Salman, should be granted immunity in a case brought against him by the fiancée of Washington Post journalist Jam… [+7147 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Gawon Bae, Junko Ogura, Brad Lendon, Rhea Mogul",
+            "title": "North Korea fires ICBM into sea off Japan, according to South Korean officials - CNN",
+            "description": "North Korea launched an intercontinental ballistic missile (ICBM) on Friday, the second missile test by the Kim Jong Un regime in two days, in actions condemned as a brazen violation of multiple UN resolutions by the US and its allies.",
+            "url": "https://www.cnn.com/2022/11/17/asia/north-korea-ballistic-missile-friday-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221116185739-kim-jong-un-october-17.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-18T05:44:00Z",
+            "content": "North Korea launched an intercontinental ballistic missile (ICBM) on Friday, the second missile test by the Kim Jong Un regime in two days, in actions condemned as a brazen violation of multiple UN r… [+6908 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Turron Davenport, Rob Demovsky",
+            "title": "Ryan Tannehill's big day helps lead Titans to road win over Packers - ESPN",
+            "description": "Tennessee QB's best game of the season helps lead Titans to win over Aaron Rodgers and Green Bay.",
+            "url": "https://www.espn.com/nfl/story/_/id/35049396/tannehill-big-day-leads-titans-road-win-packers",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1118%2Fr1092727_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-11-18T04:48:04Z",
+            "content": "GREEN BAY, Wis. -- The Tennessee Titans handled business Thursday on the road against the Green Bay Packers in a 27-17 win at Lambeau Field.\r\nDespite red-hot rookie wide receiver Christian Watson hau… [+4938 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Shares cautious, U.S. yield curve deep in recession territory - Reuters.com",
+            "description": "Asian shares were in a cautious mood on Friday after U.S. Federal Reserve officials fired more warning shots on interest rates, while rising coronavirus cases in China and liquidity strains in its bond market added to uncertainty.",
+            "url": "https://www.reuters.com/markets/global-markets-wrapup-1-pix-2022-11-18/",
+            "urlToImage": "https://www.reuters.com/resizer/wp5tTNuzdbMa94YLnhqNaV21ncs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ICXAGXVFG5OA5FESDDNOUTVO7Y.jpg",
+            "publishedAt": "2022-11-18T04:35:00Z",
+            "content": "SYDNEY, Nov 18 (Reuters) - Asian shares were in a cautious mood on Friday after U.S. Federal Reserve officials fired more warning shots on interest rates, while rising coronavirus cases in China and … [+3496 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Dakin Andone, Amir Vera, Jamiel Lynch",
+            "title": "Federal appeals court grants Alabama death row inmate last-minute stay of execution - CNN",
+            "description": "The US Supreme Court has overruled a federal appeals court's stay of execution for Alabama death-row prisoner Kenneth Smith, allowing the state to proceed with Smith's execution before his death warrant expires at midnight Thursday.",
+            "url": "https://www.cnn.com/2022/11/17/us/kenneth-smith-alabama-execution/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221116085016-kenneth-smith-alabama-inmate.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-18T03:48:00Z",
+            "content": "[Breaking news update, published at 11:44 p.m. ET]\r\nThe US Supreme Court has vacated a federal appeals courts stay of execution for Alabama death row prisoner Kenneth Smith, allowing the state to pro… [+6487 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Boehner congratulates Pelosi for ‘remarkable, historic run’ as House Democratic leader - The Hill",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMif2h0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvaG91c2UvMzc0MTE4OC1ib2VobmVyLWNvbmdyYXR1bGF0ZXMtcGVsb3NpLWZvci1yZW1hcmthYmxlLWhpc3RvcmljLXJ1bi1hcy1ob3VzZS1kZW1vY3JhdGljLWxlYWRlci_SAYMBaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9ob3VzZS8zNzQxMTg4LWJvZWhuZXItY29uZ3JhdHVsYXRlcy1wZWxvc2ktZm9yLXJlbWFya2FibGUtaGlzdG9yaWMtcnVuLWFzLWhvdXNlLWRlbW9jcmF0aWMtbGVhZGVyL2FtcC8?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-11-18T02:43:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBC Chicago"
+            },
+            "author": null,
+            "title": "Ticketmaster Abruptly Cancels Public Sale of Tickets for Taylor Swift's ‘Eras' Tour - NBC Chicago",
+            "description": "One day before tickets were set to become available to the general public, Ticketmaster abruptly canceled its public sale for Taylor Swift's \"The Eras Tour,\"…",
+            "url": "https://www.nbcchicago.com/news/local/ticketmaster-abruptly-cancels-public-sale-of-tickets-for-taylor-swifts-eras-tour/2999690/",
+            "urlToImage": "https://media.nbcchicago.com/2022/11/GettyImages-1243081642.jpg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2022-11-18T02:20:28Z",
+            "content": "One day before tickets were set to become available to the general public, Ticketmaster abruptly canceled its public sale for Taylor Swift's \"The Eras Tour,\" following several issues with presale eve… [+7004 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "After Elon Musk's ultimatum, Twitter employees start exiting - Reuters",
+            "description": "Hundreds of Twitter employees are estimated to be leaving the beleaguered social media company following an ultimatum from new owner Elon Musk that staffers sign up for \"long hours at high intensity,\" or leave.",
+            "url": "https://www.reuters.com/technology/after-elon-musks-ultimatum-twitter-employees-start-exiting-2022-11-18/",
+            "urlToImage": "https://www.reuters.com/resizer/p6Kcxh3TH3bbKzeI3ROhWSm3Zz0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IV27IW4HMFJPFEBLCGGTVA2DWQ.jpg",
+            "publishedAt": "2022-11-18T01:47:00Z",
+            "content": "Nov 17 (Reuters) - Hundreds of Twitter employees are estimated to be leaving the beleaguered social media company following an ultimatum from new owner Elon Musk that staffers sign up for \"long hours… [+4192 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "MLB rumors: Yankees have made offers to Aaron Judge - CBS Sports",
+            "description": "This isn't the least bit surprising, but Brian Cashman says the Yankees have already made offers to Aaron Judge",
+            "url": "https://www.cbssports.com/mlb/news/mlb-rumors-yankees-have-made-offers-to-aaron-judge/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/11/18/f436073d-55a4-40ea-b823-8de959da962f/thumbnail/1200x675/19996901e851979800fcc351a74731df/judge-getty-1.png",
+            "publishedAt": "2022-11-18T01:46:26Z",
+            "content": "Fresh off an MVP campaign in which he made history by clubbing 62 home runs, Aaron Judge is a free agent. The Yankees haven't made it much of a secret -- not that they should -- that their top priori… [+1023 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MLB Trade Rumors"
+            },
+            "author": "Darragh McDonald",
+            "title": "Paul Goldschmidt Wins NL MVP - MLB Trade Rumors",
+            "description": "Cardinals first baseman Paul Goldschmidt has been named the National League's Most Valuable Player, according to an announcement from the &hellip;",
+            "url": "https://www.mlbtraderumors.com/2022/11/paul-goldschmidt-wins-nl-mvp.html",
+            "urlToImage": "https://cdn.mlbtraderumors.com/files/2022/07/PaulGoldschmidt-2022-1-1024x683.jpg",
+            "publishedAt": "2022-11-18T01:41:38Z",
+            "content": "Cardinals first baseman Paul Goldschmidt has been named the National League’s Most Valuable Player, according to an announcement from the Baseball Writers Association of America. He was followed in t… [+2540 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff reporter",
+            "title": "James Webb telescope finds two of the oldest and most distant galaxies ever seen - The Guardian",
+            "description": "Nasa says space telescope is finding previously hidden early galaxies, including one that may have formed 350m years after the big bang",
+            "url": "https://www.theguardian.com/science/2022/nov/18/james-webb-telescope-finds-two-of-the-oldest-and-most-distant-galaxies-ever-seen",
+            "urlToImage": "https://i.guim.co.uk/img/media/36722cc74b036ec23cc2b0411f652e6bac5db53b/0_432_1080_648/master/1080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dcbc965bdc1320ae70846e6df22be1e6",
+            "publishedAt": "2022-11-18T01:23:00Z",
+            "content": "Nasas James Webb space telescope is finding bright, early galaxies that until now have been hidden from view, including one that may have formed just 350m years after the big bang.\r\nAstronomers said … [+2828 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KABC-TV"
+            },
+            "author": null,
+            "title": "Whittier crash that injured law-enforcement recruits believed to be intentional; driver Nicholas Joseph Gutierrez arrested - KABC-TV",
+            "description": "Authorities arrested a 22-year-old driver who they believe intentionally slammed into a group of law-enforcement recruits out for a training run in Whittier.",
+            "url": "https://abc7.com/whittier-news-crash-arrest-nicholas-joseph-gutierrez/12463993/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/12464034_driver-crash-TN-img.jpg?w=1600",
+            "publishedAt": "2022-11-18T01:11:10Z",
+            "content": "WHITTIER, Calif. (KABC) -- Authorities arrested a 22-year-old driver who they believe intentionally slammed into a group of law-enforcement recruits out for a training run in Whittier.\r\nNicholas Jose… [+6022 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "House Republicans say 'top priority' to probe Biden family - BBC",
+            "description": "\"This is an investigation of Joe Biden,\" said one lawmaker, who will helm a powerful committee.",
+            "url": "https://www.bbc.com/news/world-us-canada-63665351",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/94D7/production/_125430183_gettyimages-520783510.jpg",
+            "publishedAt": "2022-11-18T00:37:37Z",
+            "content": "One day after retaking a majority in the US House of Representatives, Republicans have said they will investigate the president's family as a \"top priority\".\r\nThe lawmakers said the inquiry would foc… [+3117 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Kate Mayberry",
+            "title": "Why Malaysia’s 2022 election is so difficult to predict - Al Jazeera English",
+            "description": "Malaysia holds its general election on Saturday with three leading coalitions vying for power and millions of new voters.",
+            "url": "https://www.aljazeera.com/news/2022/11/18/why-malaysias-elections-are-so-difficult-to-predict",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/11/2022-11-06T045719Z_1070103516_RC23GX9GKSRH_RTRMADP_3_MALAYSIA-ELECTION.jpg?resize=1920%2C1440",
+            "publishedAt": "2022-11-18T00:37:19Z",
+            "content": "After two weeks of campaigning, Malaysians will cast their votes on Saturday in a keenly-contested election few expect to resolve the division that has plagued the country over the last three years.\r… [+13342 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neurosciencenews.com"
+            },
+            "author": "Neuroscience News",
+            "title": "Age-Related Macular Degeneration Associated With Serious Forms of Cardiovascular Disease - Neuroscience News",
+            "description": "People with subretinal drusenoid deposits (SDD), a form of age-related macular degeneration, are more likely to have underlying heart damage as a result of heart failure or heart attacks, or other forms of cardiovascular disease associated with increased stro…",
+            "url": "https://neurosciencenews.com/amd-sdd-cardiovascular-disease-21882/",
+            "urlToImage": "https://neurosciencenews.com/files/2022/11/amd-cardiovascular-disease-neurosicnes-public.jpg",
+            "publishedAt": "2022-11-18T00:08:37Z",
+            "content": "Summary: People with subretinal drusenoid deposits (SDD), a form of age-related macular degeneration, are more likely to have underlying heart damage as a result of heart failure or heart attacks, or… [+7371 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Alex Harring",
+            "title": "Dow futures fall slightly as investors assess the prospect of higher interest rates - CNBC",
+            "description": "Investors assessed new earnings reports and speeches from central bank speakers.",
+            "url": "https://www.cnbc.com/2022/11/17/stock-market-futures-open-to-close-news.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107153705-NYSE-Traders-Photo-20221117-Press-2.jpg?v=1668726336&w=1920&h=1080",
+            "publishedAt": "2022-11-18T00:01:00Z",
+            "content": "Futures were mixed early Friday morning as investors continued evaluating earnings reports and tougher language from Federal Reserve speakers.\r\nFutures tied to the Dow Jones Industrial Average inched… [+1912 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Elizabeth Howell",
+            "title": "Follow Orion's trip to the moon with NASA Artemis 1 tracking website - Space.com",
+            "description": "It feels like you're flying alongside the moon-bound capsule.",
+            "url": "https://www.space.com/artemis-1-orion-tracking-website-moon-journey",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/KHbLTCpiy48ZjRrqD7eUdN-1200-80.png",
+            "publishedAt": "2022-11-17T23:47:20Z",
+            "content": "Ride along with NASA's latest moon mission on a tracking website just launched by the agency.\r\nArtemis 1, the first flight of the Artemis program, launched early in Wednesday morning (Nov. 16). A Spa… [+2644 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "Porsche unveils 911 Dakar, an off-road beast - CNN",
+            "description": "Porsche introduced the 911 Dakar, a special off-road version of its classic 911 sports car. Porsche says the model has been tested over 10,000 KM and can handle extreme conditions.",
+            "url": "https://www.cnn.com/videos/business/2022/11/17/porsche-911-dakar-offroader-cprog-orig-ht.cnn-business",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221117143442-porsche-911-dakar.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-17T23:31:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Amy Lamare",
+            "title": "Heidi Montag Gives Birth, Welcomes Baby No. 2 With Spencer Pratt - Yahoo Entertainment",
+            "description": "Heidi Montag and Spencer Pratt are now parents of two. The reality TV stars—who share 5-year-old Gunner—welcomed their second baby boy.",
+            "url": "https://www.yahoo.com/entertainment/heidi-montag-gives-birth-welcomes-230500316.html",
+            "urlToImage": "https://media.zenfs.com/en/e__181/54b40fdf68427e3c52d1cdce847e6f21",
+            "publishedAt": "2022-11-17T23:05:00Z",
+            "content": "And baby makes four!\r\nHeidi Montagand Spencer Pratt have just welcomed their second child, a baby boy, to the world.\r\nHeidi delivered a baby boy at 11:31 a.m. on Nov. 17, weighing 7 lb. and 9 oz., th… [+2139 chars]"
+        }
+    ]
+}
